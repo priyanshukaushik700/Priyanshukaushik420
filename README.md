@@ -80,11 +80,29 @@ Exploring datasets and finding useful insights using Python libraries.
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Priyanshukaushik420&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+alt="Priyanshu's GitHub Stats"
+/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=Priyanshukaushik420&theme=tokyonight&hide_border=true"
+alt="Priyanshu's GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukaushik420&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
 
 </div>
 
