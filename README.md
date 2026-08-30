@@ -84,14 +84,9 @@ Exploring datasets and finding useful insights using Python libraries.
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  alt="Priyanshu's GitHub Activity Graph"
-  width="100%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
----
 
 ## 🧠 Currently Learning
 
