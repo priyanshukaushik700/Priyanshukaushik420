@@ -84,10 +84,13 @@ Exploring datasets and finding useful insights using Python libraries.
 
 <div align="center">
 
-[![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Priyanshukaushik420)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  alt="Priyanshu's GitHub Activity Graph"
+  width="100%"
+/>
 
 </div>
-
 ---
 
 ## 🧠 Currently Learning
