@@ -1,151 +1,123 @@
-<!-- Profile Header -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Priyanshu Kaushik
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Python+Developer;%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%A7%A0+Problem+Solver;%F0%9F%9A%80+Building+Projects;%F0%9F%8C%B1+Always+Learning+%26+Growing" alt="Typing Animation">
 
-<h3 align="center">
-  💻 BCA Student | 🐍 Python Developer | 📊 Aspiring Data Analyst
-</h3>
+</div>
 
-<p align="center">
-  Passionate about coding, problem solving and building real-world projects 🚀
-</p>
 
-<br>
+# 👋 Hi, I'm Priyanshu Kaushik
 
-<!-- About Me -->
+### 💻 Python Developer • 📊 Aspiring Data Analyst • 🚀 Problem Solver
 
-<h2>👨‍💻 About Me</h2>
+---
 
-<ul>
-  <li>🎓 BCA Student</li>
-  <li>🐍 Currently learning Python & Django</li>
-  <li>📊 Interested in Data Analysis and AI</li>
-  <li>💻 Love solving problems and building projects</li>
-  <li>🚀 Always learning new technologies</li>
-</ul>
+## ✦ About Me
 
-<br>
+I am a passionate **BCA student** interested in technology, programming, data analysis, and building real-world projects.
 
-<!-- Skills -->
+I enjoy learning how software works, solving problems with code, and turning ideas into useful applications.
 
-<h2>🛠️ Tech Stack</h2>
+> *Learn the logic. Build the solution. Improve every day.*
 
-<p align="center">
+* 💻 Building projects with **Python & Django**
+* 📊 Exploring **Data Analysis**
+* 🧠 Practicing **DSA & Problem Solving**
+* 🌐 Learning **Web Development**
+* 🗄️ Working with **SQL & Databases**
+* 🚀 Building projects and improving every day
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 
-</p>
+</div>
 
 <br>
 
-<!-- Projects -->
+<div align="center">
 
-<h2>🚀 Featured Projects</h2>
+`Python` • `Django` • `HTML` • `CSS` • `JavaScript` • `SQL` • `MySQL` • `Git`
 
-<table>
+</div>
 
-<tr>
-<td width="50%">
+---
 
-<h3>🎓 Student Management System</h3>
+# 🚀 Featured Projects
 
-A project to manage student records efficiently using Python and SQLite.
+### 🎓 Student Management System
 
-</td>
+A Python-based application designed to manage student records efficiently using databases.
 
-<td width="50%">
+`Python` `SQLite` `Database`
 
-<h3>💼 CareerBridge</h3>
+---
 
-A platform designed to help students improve skills, explore career paths and prepare for jobs.
+### 💼 CareerBridge
 
-</td>
+A student-focused platform designed to help learners explore career paths, improve skills, follow learning roadmaps, and prepare for jobs.
 
-</tr>
+`Python` `Web Development` `Career Guidance`
 
-<tr>
+---
 
-<td width="50%">
+### 🔎 Job Scraper
 
-<h3>🔎 Job Scraper</h3>
+A Python project that collects job-related information and helps explore automation and web scraping concepts.
 
-A Python project that scrapes job-related information automatically.
+`Python` `Web Scraping`
 
-</td>
+---
 
-<td width="50%">
+### 📊 Data Analysis Projects
 
-<h3>📈 Data Analysis Projects</h3>
+Exploring datasets and finding useful insights using Python libraries.
 
-Exploring data using Python, Pandas and NumPy.
+`Python` `Pandas` `NumPy`
 
-</td>
+---
 
-</tr>
+## 📊 GitHub Activity
 
-</table>
+<div align="center">
 
-<br>
+[![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshukaushik420&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/Priyanshukaushik420)
 
-<!-- GitHub Stats -->
+</div>
 
-<h2>📊 GitHub Stats</h2>
+---
 
-<p align="center">
+## 🧠 Currently Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshukaushik420&show_icons=true&theme=tokyonight" />
+* 🐍 Advanced Python
+* 📊 Data Analysis with Pandas & NumPy
+* 🌐 Django & Web Development
+* 🧠 Data Structures & Algorithms
+* 💻 Building Real-World Projects
 
-<br>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshukaushik420&theme=tokyonight" />
+<div align="center">
 
-</p>
+### 🚀 Learn • Build • Solve • Grow
 
-<br>
-
-<!-- Activity -->
-
-<h2>🔥 Current Focus</h2>
-
-<ul>
-  <li>🐍 Improving Python Programming</li>
-  <li>🌐 Building Web Development Projects</li>
-  <li>📊 Learning Data Analysis</li>
-  <li>💡 Solving Programming Problems</li>
-</ul>
+`Python` • `Django` • `Data Analysis` • `DSA` • `SQL` • `Git`
 
 <br>
 
-<!-- Quote -->
-
-<h2>💡 Developer Quote</h2>
-
-<p align="center">
-
-<i>"First, solve the problem. Then, write the code." 💻</i>
-
-</p>
+🌱 **Always learning. Always building. Always improving.**
 
 <br>
 
-<!-- Connect -->
-
-<h2>🤝 Connect With Me</h2>
-
-<p>
-
-📧 Email: kaushikpriyanshu7@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/priyanshu-kaushik-9b496a3a6
-
-</p>
+> **Turning ideas into code, one project at a time. 💻🚀**
 
 <br>
 
-<p align="center">
+⭐ **Thanks for visiting my profile!**
 
-⭐ <b>Keep Learning • Keep Building • Keep Growing</b> 🚀
+💻　🚀　🧠　📊　🌱　⚡　🔥
 
-</p>
+</div>
